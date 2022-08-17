@@ -22,13 +22,13 @@ const About = () => {
         </div> */}
         {/* END ABOUT IMAGE */}
         <div className="description">
-          <h3 className="name">Adriano Smith &amp; Photographer</h3>
+          <h3 className="name">Bruce Qin | 秦力</h3>
           <div className="description_inner">
             <div className="left">
               <p>
-                Hello, I am a creative photographer based in New York and happy
-                to travel all over Europe to capture your big day in candid and
-                authentic photos. I will create a lasting memory of the people.
+                Hello, I am a software engineer currently working at CrowdStrike
+                On my free time, I enjoy learning about UIUX design and Human-Machine Interface concpets to better understand how we can create products that are more accessible. I believe the social implications of a product is just as important as the new features that it brings and that how a product is presented is often the key to how it is perceived.
+                Outside of the office, I enjoy travelling, cooking, and photography.
               </p>
               <div className="tokyo_tm_button">
                 <button onClick={toggleModal} className="ib-button">
@@ -42,39 +42,24 @@ const About = () => {
               <ul>
                 <li>
                   <p>
-                    <span>Birthday:</span>01.07.1990
+                    <span>Birthday:</span>06.28.2000
                   </p>
                 </li>
                 <li>
                   <p>
-                    <span>Age:</span>31
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    <span>Address:</span>Ave 11, New York, USA
+                    <span>Age:</span>22
                   </p>
                 </li>
                 <li>
                   <p>
                     <span>Email:</span>
-                    <a href="mailto:mail@gmail.com">mail@gmail.com</a>
+                    <a href="mailto:mail@gmail.com">bruce.qin@outlook.com</a>
                   </p>
                 </li>
                 <li>
                   <p>
                     <span>Phone:</span>
-                    <a href="tel:+770221770505">+77 022 177 05 05</a>
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    <span>Study:</span>Univercity of Texas
-                  </p>
-                </li>
-                <li>
-                  <p>
-                    <span>Freelance:</span>Available
+                    <a href="tel:+770221770505">+1 470 439 0774</a>
                   </p>
                 </li>
               </ul>
